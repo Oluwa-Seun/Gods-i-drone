@@ -1,0 +1,20 @@
+{
+  "name": "gods-i-drone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwa-Seun/Gods-i-drone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwa-Seun/Gods-i-drone/issues"
+  },
+  "homepage": "https://github.com/Oluwa-Seun/Gods-i-drone#readme"
+}
