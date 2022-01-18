@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Oluwa-Seun/Gods-i-drone/issues"
   },
-  "homepage": "https://github.com/Oluwa-Seun/Gods-i-drone#readme"
+  "homepage": "https://github.com/Oluwa-Seun/Gods-i-drone#readme",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "wait": "^0.4.2"
+  }
 }

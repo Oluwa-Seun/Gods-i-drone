@@ -1,3 +1,5 @@
+// command to tell the drone how long it takes before each comannad is exicuted.
+
 const commandDelays = {
     command: 500,
     takeoff: 5000,
